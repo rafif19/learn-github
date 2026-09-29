@@ -2,4 +2,5 @@ Sekolah Rendah: SKGl
 Sekolah Menengah: SMkDLP
 Sekolah Menengah: RMC
 Asasi: KMK
-Universiti: UPSI
+Universiti: UMK
+
