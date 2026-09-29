@@ -1,2 +1,4 @@
 Sekolah Rendah: SKGl
 Sekolah Menengah: SMkDLP
+Sekolah Menengah: RMC
+Asasi: KMK
